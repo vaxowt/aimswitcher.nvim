@@ -8,8 +8,8 @@ Current version works for NeoVim on Windows
 
 ## Requirements
 
-* AIMSwitcher
+* [AIMSwitcher](https://github.com/A-23187/AIMSwitcher)
 
 ## Acknowledgement
 
-* This code is modified from [im-selec.nvim](https://github.com/keaising/im-select.nvim)
+* This code is modified from [im-select.nvim](https://github.com/keaising/im-select.nvim)
